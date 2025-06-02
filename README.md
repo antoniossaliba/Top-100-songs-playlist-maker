@@ -58,10 +58,10 @@ Not all songs from the Billboard list may be available on Spotify.
 
 Playlist creation requires permission to modify your Spotify library.
 
-The script creates private playlists by default.
+The script creates public playlists by default.
 
 👨‍💻 Author
-Your Name – @yourhandle
+Your Name – @antoniossaliba
 
 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
